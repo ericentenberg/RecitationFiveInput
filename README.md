@@ -1,5 +1,18 @@
 # RecitationFiveInput
 
+Zucchini, Squash, pound, 2.19, 45
+Yellow, Squash, pound, 1.79, 15
+Tomatoes, Ugly Ripe, each, .99, 67
+Strawberries, , package, 4.99, 38
+Spaghetti, Squash, each, 1.99, 18
+Raspberries, Red, package, 3.99, 50
+Radishes, Red, package, .99, 25
+Peppers, Jalapeno, pound, .99, 7
+Peppers, Green, each, .59, 100
+Orange, Navel, pound, 1.99, 80
+Okra, , package, 6.99, 12
+Mushrooms, Shiitake, package, 4.99, 20
+Mango, , each, 3.59, 44
 Lime, Persian, each, .10, 60
 Lettuce, Iceberg, each, 1.19, 100
 Lemon, , each, .29, 40
